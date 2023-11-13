@@ -43,3 +43,17 @@
 - Got told that the smaller printer is working again and to use the smaller one
 - Reset my file for the CR 10
 - Set the file print and had a small clog but it appeared to have worked itself out
+
+11/05/23
+- Continued to work with printer but could not get it to make a correct print
+- Appears to still have a clog
+
+11/08/23
+- Printer appears to be broken
+- Attempted to work on it but was told not to
+- Temperature control appears to be off
+
+11/13/23
+- Worked on diagrams for testing setup
+- Made diagram for base and for dropping device holder using paint
+- Plan to make dropping mechanism work on a pulled pin system
