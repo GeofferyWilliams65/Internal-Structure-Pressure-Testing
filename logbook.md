@@ -38,3 +38,8 @@
 10/30/23
 - Got Cura set up for the new printer and had the print resized properly
 - Requested to start the print and got denied until the MakerSpace is cleaned
+
+11/02/23
+- Got told that the smaller printer is working again and to use the smaller one
+- Reset my file for the CR 10
+- Set the file print and had a small clog but it appeared to have worked itself out
